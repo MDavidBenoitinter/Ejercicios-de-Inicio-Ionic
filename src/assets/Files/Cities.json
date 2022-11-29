@@ -1,0 +1,26 @@
+{
+    "Countries":
+    [
+        {
+            "id": 1,
+            "name": "Alemania",
+            "capital": "Berlín",
+            "description": "Berlín es la capital de Alemania y uno de los dieciséis estados federados alemanes. Se localiza al noreste de Alemania.",
+            "image": "https://th.bing.com/th/id/R.52295b0754b921d53a2796dadb93d3b8?rik=QOC6Ce6u4VwIeA&pid=ImgRaw&r=0"
+        },
+        {
+            "id": 2,
+            "name": "Ucrania",
+            "capital": "Kiev",
+            "description": "Es un importante centro industrial, científico, educativo, cultural e histórico, además de sede de muchas industrias de alta tecnología. Kiev dispone de una amplia infraestructura, en la que se incluye su sistema de transporte público del que forma parte el Metro de Kiev, el sistema de metro más profundo del mundo, alcanzando los 105 metros de profundidad.",
+            "image": "https://th.bing.com/th/id/OIP.Lo7tjTiKSAfKqibI_iMv2QHaD4?pid=ImgDet&rs=1"
+        },
+        {
+            "id": 3,
+            "name": "España",
+            "capital": "Madrid",
+            "description": "Madrid es un municipio y una ciudad de España, con categoría histórica de villa, es la capital del Estado y de la Comunidad de Madrid. ",
+            "image": "https://th.bing.com/th/id/OIP.rl84fn4WTG_245di9a4DNwHaFI?pid=ImgDet&rs=1"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+<ion-header>
+  <ion-toolbar color="mycolor">
+    <ion-title>Home</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div id="Container">
+    <button [routerLink]="['/costumers']" class="btn">Go to Costumers</button>
+    <br>
+    <button (click)="gotocostumers()" class="btn">Go to Costumers TS</button>
+    <br>
+    <button [routerLink]="['/grid']" class="btn">Go to Grid</button>
+  </div>
+</ion-content>
